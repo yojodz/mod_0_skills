@@ -1,0 +1,13 @@
+Instance: "Chef Boyardee"
+
+attributes:
+title: "Head Chef"
+vacation_days_available: 14
+salary: $300,000.05
+sommelier_certified: false
+
+methods:
+change_title: "Director of Meatballs" (changes string value of title)
+use_vacation: 6 (reduces the vacation_days_available to 8)
+increase_salary: $10.00 (increases the salary value to $300,010.05)
+pass_sommelier_certification: true (changes the sommelier_certified to true)
