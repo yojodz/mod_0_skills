@@ -1,0 +1,13 @@
+instance: "Brunch Menu"
+
+
+entree_quantity: 3
+is_laminated: false
+fish_market_price: 14.99
+dessert_name: "Ice Cream"
+
+methods
+add_entree: 1 (changes entree_quantity value to 4)
+laminate_menu (changes is_laminated to 'true')
+update_market_price: 25.01 (changes fish_market_price value)
+change_dessert_name: "Brownie"(changes the dessert_name to a new string)
