@@ -1,0 +1,13 @@
+class Menu
+
+attributes
+entree_quantity (integer)
+is_laminated (boolean)
+fish_market_price (float)
+dessert_name (string)
+
+methods
+add_entree (changes entree_quantity value)
+laminate_menu (changes is_laminated to 'true')
+update_market_price (changes fish_market_price value)
+change_dessert_name (changes the dessert_name to a new string)
