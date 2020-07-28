@@ -1,0 +1,13 @@
+class Employee
+
+attributes:
+title (string)
+vacation_days_available (integer or float)
+salary (integer or float)
+sommelier_certified (boolean)
+
+methods:
+change_title (changes string value of title)
+use_vacation (reduces the vacation_days_available)
+increase_salary (increases the salary value)
+pass_sommelier_certification (could change the sommelier_certified to true)
