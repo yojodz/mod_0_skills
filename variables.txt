@@ -1,0 +1,9 @@
+food = "pasta"
+is_delicious = true
+food = "cake"
+num2 = 20
+num7 = 100
+quotient = num7 / num2
+songs = ["Golden Retriever" , "The Man Don't Give a F*", "International Language of Screaming"]
+songs.drop(1)
+food.length
